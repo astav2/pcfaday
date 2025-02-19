@@ -8,8 +8,8 @@
   <Import Project="$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props" Condition="Exists('$(PowerAppsTargetsPath)\Microsoft.PowerApps.VisualStudio.Pcf.props')" />
 
   <PropertyGroup>
-    <Name>HierarchyControlPCF</Name>
-    <ProjectGuid>4fd2aff1-6881-4cd6-90bb-30af68b1d901</ProjectGuid>
+    <Name>InlineImageViewer</Name>
+    <ProjectGuid>0399e3e1-e1a6-4b35-96c2-1a804035c03e</ProjectGuid>
     <OutputPath>$(MSBuildThisFileDirectory)out\controls</OutputPath>
   </PropertyGroup>
 
